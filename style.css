@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(3, 1, 1, 0.658);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 7px;
+    background-color: rgba(176, 22, 22, 0.7);
+    color:whitesmoke;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+button { 
+    margin: 20px;
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 7px;
+    background-color: rgba(176, 22, 22, 0.7);
+    color:whitesmoke;
+    padding-left: 10px;
+    font-size: 18px;
+}
